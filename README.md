@@ -1,7 +1,7 @@
 ## Hello there — I'm Albert Tseng 👋
 
-Backend engineer in Taipei, working on cross-border payments and crypto-fiat rails.
-I like systems where being wrong costs money — ledgers, idempotency, reconciliation.
+Frontend engineer in Taipei. I got curious about what happens after the "Pay" button,
+so I'm building a payment system from the ledger up to find out.
 
 📮 [tjtseng1072@gmail.com](mailto:tjtseng1072@gmail.com)
 
@@ -13,8 +13,8 @@ I like systems where being wrong costs money — ledgers, idempotency, reconcili
 <!--
 ### Currently
 
-- Building payment infrastructure at **XREX** — TODO: one line, with a number
-- **Open to backend / payments roles in Australia** — Melbourne or Sydney, on-site or remote
+- TODO: what you actually own at XREX — one line, with a number or a scale
+- **Open to frontend / full-stack roles in Australia**, ideally in fintech — Melbourne or Sydney, on-site or remote
 - Work rights: TODO (482 sponsorship / 189 / 190 / WHV / PR)
 - Timezone: UTC+8, ~2–3h from AEST — near-full overlap with an Australian workday
 -->
@@ -27,8 +27,10 @@ I like systems where being wrong costs money — ledgers, idempotency, reconcili
 Merchants integrate a REST API, customers pay through a hosted checkout, and every
 money movement lands in a balanced double-entry ledger.
 
-Deliberately a **modular monolith first** — each module owns its tables and exposes a
-Go API, so extracting `ledger-service` later is a mechanical move, not a redesign.
+Currently designing it in the open — the architecture and the decision records are
+further along than the code, which is the honest state of things. Starting as a
+**modular monolith** on purpose: each module owns its tables and exposes a Go API,
+so extracting `ledger-service` later is a mechanical move, not a redesign.
 
 ```mermaid
 flowchart LR
@@ -60,9 +62,9 @@ CDR. Two or three sentences, no more.
 <!--
 ### Tech
 
-**Reach for daily** — Go, PostgreSQL, TypeScript, Docker
-**Comfortable in** — Next.js, Kubernetes, Terraform, GitHub Actions
-**Currently learning** — TODO
+**Reach for daily** — TypeScript, React, Next.js, TODO
+**Comfortable in** — Terraform, Cloudflare Workers, GitHub Actions, TODO
+**Learning in the open** — Go, PostgreSQL, double-entry accounting
 -->
 
 <!--
