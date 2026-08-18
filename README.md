@@ -1,5 +1,5 @@
 ```ts
-// albert@sydney:~$ whoami
+albert@sydney:~$ whoami
 
 export default {
   name: "Albert Tseng",
@@ -11,7 +11,7 @@ export default {
   status: "open to intern / part-time / casual work",
 };
 
-// albert@sydney:~$ █
+albert@sydney:~$ █
 ```
 
 ## About
