@@ -29,6 +29,13 @@ my blog on infrastructure I designed myself — a Dockerised Next.js app on Clou
 Terraform resources, keyless CI/CD through Workload Identity Federation. Backend and
 infrastructure is where most of my own building goes now; it's pinned below.
 
+## Right now
+
+- 🎓 **Master of Information Technology at UNSW**, Sydney — starting September 2026, expected January 2029
+- 💼 **Looking for** internships, part-time or casual work in Sydney from September 2026 — frontend or fullstack
+- 🛂 **Student visa (subclass 500)** — 48 hrs/fortnight during term, unrestricted during breaks
+- 📚 Going deeper on Go, PostgreSQL and double-entry accounting
+
 ## Tech
 
 **Frontend**
@@ -54,13 +61,6 @@ infrastructure is where most of my own building goes now; it's pinned below.
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-## Right now
-
-- 🎓 **Master of Information Technology at UNSW**, Sydney — starting September 2026, expected January 2029
-- 💼 **Looking for** internships, part-time or casual work in Sydney from September 2026 — frontend or fullstack
-- 🛂 **Student visa (subclass 500)** — 48 hrs/fortnight during term, unrestricted during breaks
-- 📚 Going deeper on Go, PostgreSQL and double-entry accounting
 
 ## Outside the terminal
 
